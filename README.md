@@ -17,8 +17,8 @@ To use the application, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/WuKunhuan-PolyU/tokenizationStemmingSWRemovalv2.git
+    cd tokenizationStemmingSWRemovalv2
     ```
 
 2. **Install dependencies:**
